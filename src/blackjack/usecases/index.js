@@ -1,0 +1,7 @@
+export { crearDeck as createDeck }                from './create-deck'
+export { pedirCarta as requestLetter }            from './request-letter'
+export { valorCarta as valueLetter }              from './value-letter'
+export { acumularPuntos as acumulatePoints }      from './acumulate-points'
+export { determinarGanador as windDeterminated }  from './wind-determined'
+export { crearCarta as createLetter }             from './create-letter'
+export { turnoComputadora as computerPlayerTurn } from './computer-player-turn'
